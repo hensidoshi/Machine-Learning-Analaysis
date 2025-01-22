@@ -70,10 +70,12 @@ Make sure your dataset includes a target column (e.g., `Outcome`, `Target`, `Lab
 
 ## Screenshots
 ### Homepage
-![Homepage](https://via.placeholder.com/800x400?text=Homepage)
+![image](https://github.com/user-attachments/assets/1b569af8-e1f4-40fe-8e1d-3f4afe6fa732)
+
 
 ### Results Page
-![Results Page](https://via.placeholder.com/800x400?text=Results+Page)
+![image](https://github.com/user-attachments/assets/fee6e954-ffdd-47a8-bd8c-e02e6f0e28ad)
+
 
 ## Contributing
 1. Fork the repository.
